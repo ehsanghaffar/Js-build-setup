@@ -1,0 +1,16 @@
+{
+  "name": "js-build-setup",
+  "version": "0.0.1",
+  "description": "build setup for JavaScript with moduleserve and ",
+  "main": "index.js",
+  "author": "Ehsan Ghaffarlangarudi <ghafari.5000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^8.2.2",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "distfs": "^0.1.2",
+    "fuse-bindings": "^2.11.2",
+    "moduleserve": "^0.9.1"
+  }
+}
